@@ -12,6 +12,13 @@ ul li {
     justify-content: center;
 }
 
+.answer {
+    list-style-type: none;
+    margin-bottom: 12px;
+    margin-left: 12px;
+
+}
+
 .halloween {
 
     animation: color 10s infinite;
@@ -22,4 +29,9 @@ ul li {
     50% {background-color:yellow;}
     100% {background-color: blue}
 }
-img : end;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
