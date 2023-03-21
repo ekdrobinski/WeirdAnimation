@@ -1,0 +1,20 @@
+body {
+    background-color:greenyellow
+}
+
+ul li {
+    background-color: yellow;
+    justify-content: center;
+}
+
+.halloween {
+
+    animation: color 10s infinite;
+}
+
+@keyframes color {
+    0% {background-color: yellowgreen;}
+    50% {background-color:yellow;}
+    100% {background-color: blue}
+}
+img : end;}
